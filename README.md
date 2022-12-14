@@ -1,1 +1,3 @@
-# Real-World-Data-Manipulation-in-Pandas
+### Chipotle
+
+- Manipulation techniques: Filtering, Sorting, Visualization
