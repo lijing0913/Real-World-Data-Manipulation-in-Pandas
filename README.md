@@ -19,3 +19,13 @@
 
 ### Projects
 - [Chipotle](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Chipotle.ipynb)
+
+- Occupation
+
+- Euro2012
+
+- Fictional Army
+
+- Alcohol Consumption
+
+- US Crime Rates
