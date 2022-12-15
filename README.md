@@ -14,7 +14,7 @@
 - Merge
   * df1.append(df2), pd.concat(df1, df2)
 
-- Stats
+- Statistics
   * min(), max(), mean()
   * df.column_name.value_counts()
 
@@ -59,3 +59,6 @@
 
 - House Market
   * Merge
+  
+- US Baby Names
+  * Statistics
