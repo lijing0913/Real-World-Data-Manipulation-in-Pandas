@@ -16,6 +16,7 @@
 
 - Stats
   * min(), max(), mean()
+  * df.column_name.value_counts()
 
 - Visualization
   * df.plot(), df.plot(kind='bar')
