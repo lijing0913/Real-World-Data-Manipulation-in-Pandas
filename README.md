@@ -52,3 +52,6 @@
 
 - Student Alcohol Consumption
   * Apply
+
+- Fictious Names
+ * Merge
