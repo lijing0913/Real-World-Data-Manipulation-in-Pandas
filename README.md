@@ -20,7 +20,7 @@
 
 - Visualization
   * df.plot(), df.plot(kind='bar')
-  * plt.plot(), plt.pie(), plt.hist(), sns.scatterplot(), plt.scatter(), plt.title(), plt.xlabel(), plt.ylabel(), plt.title(), plt.legend(), plt.figure(figsize=())
+  * plt.plot(), plt.pie(), plt.hist(), sns.scatterplot(), plt.scatter(), plt.title(), plt.xlabel(), plt.ylabel(), plt.title(), plt.legend(), plt.figure(figsize=()), plt.xlim(), plt.ylim(), plt.xticks(), plt.yticks()
 
 - Time Series
 
@@ -77,4 +77,7 @@
   * **Technique**: Visualization
 
 - [Scores](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Scores.ipynb)
+  * **Technique**: Visualization
+
+- [Online Retail](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Scores.ipynb)
   * **Technique**: Visualization
