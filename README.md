@@ -16,7 +16,7 @@
 
 - Statistics
   * min(), max(), mean()
-  * df.column_name.value_counts()
+  * df.column_name.value_counts(), df.resample('Y')
 
 - Visualization
   * df.plot(), df.plot(kind='bar')
@@ -68,3 +68,6 @@
     * From 2004 to 2014, there are 1016395 baby names. Only 17632 names are unqiue. 
     * The top 10 names are: Jacob, Emma, Michael, Ethan, Isabella, William, Joshua, Sophia, Daniel, Emily. 
     * There are 2578 names with the least occurrences, i.e., 5. The mediam name occurrence is 49.
+
+- [Wind Statistics](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Wind%20Statistics.ipynb)
+  * **Technique**: Statistics
