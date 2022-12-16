@@ -20,6 +20,7 @@
 
 - Visualization
   * df.plot(), df.plot(kind='bar')
+  * plt.plot(), plt.pie(), plt.hist(), sns.scatterplot(), plt.title(), plt.xlabel(), plt.ylabel(), plt.title(), plt.legend(), plt.figure(figsize=())
 
 - Time Series
 
@@ -71,3 +72,6 @@
 
 - [Wind Statistics](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Wind%20Statistics.ipynb)
   * **Technique**: Statistics
+
+- [Titanic Disaster](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Titanic%20Disaster.ipynb)
+  * **Technique**: Visualization
