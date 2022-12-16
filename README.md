@@ -79,5 +79,5 @@
 - [Scores](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Scores.ipynb)
   * **Technique**: Visualization
 
-- [Online Retail](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Scores.ipynb)
+- [Online Retail](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Online%20Retail.ipynb)
   * **Technique**: Visualization
