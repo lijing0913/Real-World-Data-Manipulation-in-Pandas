@@ -88,3 +88,6 @@
   
 - [Pokemon](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Pokemon.ipynb)
   * **Technique**: Creating Series and DataFrame
+
+- [Apple Stock](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Apple%20Stock.ipynb)
+  * **Technique**: Time Series
