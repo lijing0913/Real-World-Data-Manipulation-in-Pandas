@@ -85,3 +85,6 @@
 
 - [Tips](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Tips.ipynb)
   * **Technique**: Visualization
+  
+- [Pokemon](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Pokemon.ipynb)
+  * **Technique**: Creating Series and DataFrame
