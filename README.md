@@ -100,3 +100,6 @@
 
 - [Iris](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Iris.ipynb)
   * **Technique**: Delete
+
+- [Wine](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Wine.ipynb)
+  * **Technique**: Delete
