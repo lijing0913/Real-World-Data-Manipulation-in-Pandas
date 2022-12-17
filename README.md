@@ -97,3 +97,6 @@
 
 - [US Investor Flow of Funds](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/US%20Investor%20Flow%20of%20Funds.ipynb)
   * **Technique**: Time Series
+
+- [Iris](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Iris.ipynb)
+  * **Technique**: Delete
