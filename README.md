@@ -91,3 +91,6 @@
 
 - [Apple Stock](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Apple%20Stock.ipynb)
   * **Technique**: Time Series
+
+- [Getting Stock Data](https://github.com/lijing0913/Real-World-Data-Manipulation-in-Pandas/blob/main/Getting%20Stock%20Data.ipynb)
+  * **Technique**: Time Series
